@@ -1,0 +1,46 @@
+Jersey Number,id,Name,Position Code,Position,Position Type,Position Abbreviation,Status Code,Status Description
+52,542914,Anthony Bass,1,Pitcher,Pitcher,P,RL,Released
+40,605135,Chris Bassitt,1,Pitcher,Pitcher,P,A,Active
+13,474832,Brandon Belt,10,Designated Hitter,Hitter,DH,A,Active
+17,621244,José Berríos,1,Pitcher,Pitcher,P,A,Active
+11,666182,Bo Bichette,6,Shortstop,Infielder,SS,A,Active
+8,624415,Cavan Biggio,4,Second Base,Infielder,2B,A,Active
+92,650893,Génesis Cabrera,1,Pitcher,Pitcher,P,A,Active
+26,656305,Matt Chapman,5,Third Base,Infielder,3B,A,Active
+90,643256,Adam Cimber,1,Pitcher,Pitcher,P,D60,Injured 60-Day
+28,676391,Ernie Clement,5,Third Base,Infielder,3B,A,Active
+65,668470,Hagen Danner,1,Pitcher,Pitcher,P,D60,Injured 60-Day
+10,657557,Paul DeJong,6,Shortstop,Infielder,SS,RL,Released
+31,686490,Cam Eden,8,Outfielder,Outfielder,CF,A,Active
+5,669289,Santiago Espinal,4,Second Base,Infielder,2B,A,Active
+44,670102,Bowden Francis,1,Pitcher,Pitcher,P,A,Active
+93,554340,Yimi García,1,Pitcher,Pitcher,P,A,Active
+34,592332,Kevin Gausman,1,Pitcher,Pitcher,P,A,Active
+37,643338,Chad Green,1,Pitcher,Pitcher,P,A,Active
+27,665489,Vladimir Guerrero Jr.,3,First Base,Infielder,1B,A,Active
+31,641672,Thomas Hatch,1,Pitcher,Pitcher,P,CL,Claimed
+55,623168,Tyler Heineman,2,Catcher,Catcher,C,A,Active
+12,663855,Jordan Hicks,1,Pitcher,Pitcher,P,A,Active
+48,687462,Spencer Horwitz,3,First Base,Infielder,1B,A,Active
+35,543351,Jay Jackson,1,Pitcher,Pitcher,P,MIN,Minor League Contract
+9,643376,Danny Jansen,2,Catcher,Catcher,C,A,Active
+39,595281,Kevin Kiermaier,8,Outfielder,Outfielder,CF,A,Active
+30,672386,Alejandro Kirk,2,Catcher,Catcher,C,A,Active
+38,664770,Nathan Lukes,9,Outfielder,Outfielder,RF,A,Active
+7,656669,Jordan Luplow,7,Outfielder,Outfielder,LF,CL,Claimed
+6,666201,Alek Manoah,1,Pitcher,Pitcher,P,A,Active
+58,641835,Tim Mayza,1,Pitcher,Pitcher,P,A,Active
+10,669200,Mason McCoy,6,Shortstop,Infielder,SS,MIN,Minor League Contract
+15,593160,Whit Merrifield,4,Second Base,Infielder,2B,A,Active
+46,641149,Wes Parsons,1,Pitcher,Pitcher,P,A,Active
+24,663878,Nate Pearson,1,Pitcher,Pitcher,P,A,Active
+56,647315,Zach Pop,1,Pitcher,Pitcher,P,A,Active
+33,670950,Trevor Richards,1,Pitcher,Pitcher,P,A,Active
+68,605447,Jordan Romano,1,Pitcher,Pitcher,P,A,Active
+99,547943,Hyun Jin Ryu,1,Pitcher,Pitcher,P,A,Active
+36,676914,Davis Schneider,7,Outfielder,Outfielder,LF,A,Active
+4,543807,George Springer,9,Outfielder,Outfielder,RF,A,Active
+50,657024,Erik Swanson,1,Pitcher,Pitcher,P,A,Active
+57,663423,Trent Thornton,1,Pitcher,Pitcher,P,TR,Traded
+25,662139,Daulton Varsho,8,Outfielder,Outfielder,CF,A,Active
+45,669952,Mitch White,1,Pitcher,Pitcher,P,MIN,Minor League Contract
