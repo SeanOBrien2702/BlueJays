@@ -1,0 +1,38 @@
+Jersey Number,id,Name,Position Code,Position,Position Type,Position Abbreviation,Status Code,Status Description
+8,425859,Russ Adams,6,Shortstop,Infielder,SS,A,Active
+43,110683,Miguel Batista,1,Pitcher,Pitcher,P,TR,Traded
+49,433657,Dave Bush,1,Pitcher,Pitcher,P,TR,Traded
+27,112131,Frank Catalanotto,7,Outfielder,Outfielder,LF,FA,Free Agent
+39,407860,Gustavo Chacín,1,Pitcher,Pitcher,P,A,Active
+50,425562,Vinnie Chulk,1,Pitcher,Pitcher,P,TR,Traded
+56,150103,Andy Dominique,2,Catcher,Catcher,C,FA,Free Agent
+37,275933,Scott Downs,1,Pitcher,Pitcher,P,A,Active
+54,430630,Jason Frasor,1,Pitcher,Pitcher,P,A,Active
+35,429985,Chad Gaudin,1,Pitcher,Pitcher,P,TR,Traded
+24,424366,John-Ford Griffin,10,Designated Hitter,Hitter,DH,MIN,Minor League Contract
+18,408212,Gabe Gross,7,Outfielder,Outfielder,LF,TR,Traded
+32,136880,Roy Halladay,1,Pitcher,Pitcher,P,A,Active
+2,431094,Aaron Hill,4,Second Base,Infielder,2B,A,Active
+29,150167,Shea Hillenbrand,3,First Base,Infielder,1B,TR,Traded
+11,400134,Eric Hinske,5,Third Base,Infielder,3B,TR,Traded
+20,279570,Ken Huckaby,2,Catcher,Catcher,C,FA,Free Agent
+1,407861,Orlando Hudson,4,Second Base,Infielder,2B,TR,Traded
+3,407862,Reed Johnson,9,Outfielder,Outfielder,RF,A,Active
+47,136731,Corey Koskie,5,Third Base,Infielder,3B,A,Active
+22,434181,Brandon League,1,Pitcher,Pitcher,P,A,Active
+31,150404,Ted Lilly,1,Pitcher,Pitcher,P,FA,Free Agent
+28,451788,Shaun Marcum,1,Pitcher,Pitcher,P,A,Active
+6,150348,John McDonald,6,Shortstop,Infielder,SS,TR,Traded
+40,430661,Dustin McGowan,1,Pitcher,Pitcher,P,A,Active
+4,236427,Frank Menechino,4,Second Base,Infielder,2B,FA,Free Agent
+34,277405,Justin Miller,1,Pitcher,Pitcher,P,FA,Free Agent
+28,119616,Greg Myers,2,Catcher,Catcher,C,FA,Free Agent
+16,425565,Guillermo Quiroz,2,Catcher,Catcher,C,WA,Waived
+15,425567,Alex Rios,9,Outfielder,Outfielder,RF,A,Active
+60,150011,Scott Schoeneweis,1,Pitcher,Pitcher,P,TR,Traded
+30,133221,Justin Speier,1,Pitcher,Pitcher,P,FA,Free Agent
+7,346869,Josh Towers,1,Pitcher,Pitcher,P,NRI,Non-Roster Invitee
+71,123839,Pete Walker,1,Pitcher,Pitcher,P,RL,Released
+10,150484,Vernon Wells,8,Outfielder,Outfielder,CF,A,Active
+48,124209,Matt Whiteside,1,Pitcher,Pitcher,P,FA,Free Agent
+9,124748,Gregg Zaun,2,Catcher,Catcher,C,A,Active

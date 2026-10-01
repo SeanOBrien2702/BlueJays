@@ -1,0 +1,39 @@
+Jersey Number,id,Name,Position Code,Position,Position Type,Position Abbreviation,Status Code,Status Description
+57,110032,Juan Acevedo,1,Pitcher,Pitcher,P,RL,Released
+2,132787,Dave Berg,4,Second Base,Infielder,2B,FA,Free Agent
+16,111234,Mike Bordick,6,Shortstop,Infielder,SS,FA,Free Agent
+26,406954,Brian Bowles,1,Pitcher,Pitcher,P,FA,Free Agent
+29,408211,Kevin Cash,2,Catcher,Catcher,C,TR,Traded
+27,112131,Frank Catalanotto,7,Outfielder,Outfielder,LF,FA,Free Agent
+50,425562,Vinnie Chulk,1,Pitcher,Pitcher,P,TR,Traded
+6,408201,Howie Clark,3,First Base,Infielder,1B,FA,Free Agent
+39,150034,Doug Creek,1,Pitcher,Pitcher,P,FA,Free Agent
+48,150277,Doug Davis,1,Pitcher,Pitcher,P,FA,Free Agent
+25,113232,Carlos Delgado,3,First Base,Infielder,1B,FA,Free Agent
+45,113898,Kelvim Escobar,1,Pitcher,Pitcher,P,FA,Free Agent
+32,136880,Roy Halladay,1,Pitcher,Pitcher,P,A,Active
+43,424805,Mark Hendrickson,1,Pitcher,Pitcher,P,TR,Traded
+11,400134,Eric Hinske,5,Third Base,Infielder,3B,TR,Traded
+20,279570,Ken Huckaby,2,Catcher,Catcher,C,FA,Free Agent
+1,407861,Orlando Hudson,4,Second Base,Infielder,2B,TR,Traded
+3,407862,Reed Johnson,9,Outfielder,Outfielder,RF,A,Active
+23,424625,Jason Kershner,1,Pitcher,Pitcher,P,FA,Free Agent
+24,282878,Bobby Kielty,9,Outfielder,Outfielder,RF,TR,Traded
+21,117756,Cory Lidle,1,Pitcher,Pitcher,P,FA,Free Agent
+51,119125,Trever Miller,1,Pitcher,Pitcher,P,FA,Free Agent
+28,119616,Greg Myers,2,Catcher,Catcher,C,FA,Free Agent
+17,150482,Josh Phelps,10,Designated Hitter,Hitter,DH,TR,Traded
+19,131700,Cliff Politte,1,Pitcher,Pitcher,P,FA,Free Agent
+54,150209,Dan Reichert,1,Pitcher,Pitcher,P,FA,Free Agent
+53,122012,Scott Service,1,Pitcher,Pitcher,P,FA,Free Agent
+24,122784,Shannon Stewart,7,Outfielder,Outfielder,LF,TR,Traded
+31,122915,Tanyon Sturtze,1,Pitcher,Pitcher,P,FA,Free Agent
+33,134641,Jeff Tam,1,Pitcher,Pitcher,P,RL,Released
+35,407903,Corey Thurman,1,Pitcher,Pitcher,P,FA,Free Agent
+7,346869,Josh Towers,1,Pitcher,Pitcher,P,NRI,Non-Roster Invitee
+33,123839,Pete Walker,1,Pitcher,Pitcher,P,RL,Released
+38,123955,John Wasdin,1,Pitcher,Pitcher,P,FA,Free Agent
+10,150484,Vernon Wells,8,Outfielder,Outfielder,CF,A,Active
+13,150029,Jayson Werth,9,Outfielder,Outfielder,RF,TR,Traded
+9,134263,Tom Wilson,2,Catcher,Catcher,C,MIN,Minor League Contract
+5,218595,Chris Woodward,6,Shortstop,Infielder,SS,FA,Free Agent

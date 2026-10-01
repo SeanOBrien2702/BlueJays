@@ -1,0 +1,42 @@
+Jersey Number,id,Name,Position Code,Position,Position Type,Position Abbreviation,Status Code,Status Description
+7,110682,Tony Batista,5,Third Base,Infielder,3B,WA,Waived
+40,150312,Kevin Beirne,1,Pitcher,Pitcher,P,FA,Free Agent
+51,111228,Pedro Borbón,1,Pitcher,Pitcher,P,TR,Traded
+26,406954,Brian Bowles,1,Pitcher,Pitcher,P,FA,Free Agent
+18,111792,Homer Bush,4,Second Base,Infielder,2B,RL,Released
+26,112020,Chris Carpenter,1,Pitcher,Pitcher,P,FA,Free Agent
+30,112107,Alberto Castillo,2,Catcher,Catcher,C,RL,Released
+38,277412,Pasqual Coco,1,Pitcher,Pitcher,P,RL,Released
+23,112903,José Cruz Jr.,8,Outfielder,Outfielder,CF,FA,Free Agent
+49,150451,Matt DeWitt,1,Pitcher,Pitcher,P,FA,Free Agent
+25,113232,Carlos Delgado,3,First Base,Infielder,1B,FA,Free Agent
+45,113898,Kelvim Escobar,1,Pitcher,Pitcher,P,FA,Free Agent
+29,113961,Scott Eyre,1,Pitcher,Pitcher,P,WA,Waived
+1,114079,Tony Fernández,5,Third Base,Infielder,3B,RL,Released
+36,400105,Bob File,1,Pitcher,Pitcher,P,MIN,Minor League Contract
+9,114233,Darrin Fletcher,2,Catcher,Catcher,C,RL,Released
+52,114388,John Frascatore,1,Pitcher,Pitcher,P,RL,Released
+11,150472,Ryan Freel,4,Second Base,Infielder,2B,FA,Free Agent
+3,114464,Jeff Frye,4,Second Base,Infielder,2B,FA,Free Agent
+20,114485,Brad Fullmer,10,Designated Hitter,Hitter,DH,TR,Traded
+8,114924,Alex Gonzalez,6,Shortstop,Infielder,SS,WA,Waived
+32,136880,Roy Halladay,1,Pitcher,Pitcher,P,A,Active
+50,115383,Joey Hamilton,1,Pitcher,Pitcher,P,RL,Released
+2,285131,César Izturis,6,Shortstop,Infielder,SS,TR,Traded
+44,150477,Billy Koch,1,Pitcher,Pitcher,P,TR,Traded
+27,117526,Chris Latham,9,Outfielder,Outfielder,RF,WA,Waived
+21,117842,Esteban Loaiza,1,Pitcher,Pitcher,P,FA,Free Agent
+7,150479,Felipe López,6,Shortstop,Infielder,SS,TR,Traded
+12,285132,Luis Lopez,3,First Base,Infielder,1B,TR,Traded
+28,407193,Brandon Lyon,1,Pitcher,Pitcher,P,WA,Waived
+17,136422,Chris Michalak,1,Pitcher,Pitcher,P,WA,Waived
+43,119247,Raúl Mondesi,9,Outfielder,Outfielder,RF,TR,Traded
+28,120183,Lance Painter,1,Pitcher,Pitcher,P,RL,Released
+39,120247,Steve Parris,1,Pitcher,Pitcher,P,FA,Free Agent
+17,150482,Josh Phelps,10,Designated Hitter,Hitter,DH,TR,Traded
+19,120624,Dan Plesac,1,Pitcher,Pitcher,P,TR,Traded
+48,120824,Paul Quantrill,1,Pitcher,Pitcher,P,TR,Traded
+22,137000,Brian Simmons,7,Outfielder,Outfielder,LF,WA,Waived
+24,122784,Shannon Stewart,7,Outfielder,Outfielder,LF,TR,Traded
+10,150484,Vernon Wells,8,Outfielder,Outfielder,CF,A,Active
+5,218595,Chris Woodward,6,Shortstop,Infielder,SS,FA,Free Agent

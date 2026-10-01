@@ -1,0 +1,46 @@
+Jersey Number,id,Name,Position Code,Position,Position Type,Position Abbreviation,Status Code,Status Description
+36,150467,Clayton Andrews,1,Pitcher,Pitcher,P,WA,Waived
+49,150469,John Bale,1,Pitcher,Pitcher,P,TR,Traded
+7,110682,Tony Batista,5,Third Base,Infielder,3B,WA,Waived
+51,111228,Pedro Borbón,1,Pitcher,Pitcher,P,TR,Traded
+18,111792,Homer Bush,4,Second Base,Infielder,2B,RL,Released
+26,112020,Chris Carpenter,1,Pitcher,Pitcher,P,FA,Free Agent
+30,112107,Alberto Castillo,2,Catcher,Catcher,C,RL,Released
+37,112113,Frank Castillo,1,Pitcher,Pitcher,P,FA,Free Agent
+38,277412,Pasqual Coco,1,Pitcher,Pitcher,P,RL,Released
+15,112682,Marty Cordova,7,Outfielder,Outfielder,LF,FA,Free Agent
+23,112903,José Cruz Jr.,8,Outfielder,Outfielder,CF,FA,Free Agent
+34,319114,Darwin Cubillán,1,Pitcher,Pitcher,P,TR,Traded
+49,150451,Matt DeWitt,1,Pitcher,Pitcher,P,FA,Free Agent
+25,113232,Carlos Delgado,3,First Base,Infielder,1B,FA,Free Agent
+22,113585,Rob Ducey,9,Outfielder,Outfielder,RF,WA,Waived
+45,113898,Kelvim Escobar,1,Pitcher,Pitcher,P,FA,Free Agent
+66,150471,Leo Estrella,1,Pitcher,Pitcher,P,TR,Traded
+9,114233,Darrin Fletcher,2,Catcher,Catcher,C,RL,Released
+52,114388,John Frascatore,1,Pitcher,Pitcher,P,RL,Released
+20,114485,Brad Fullmer,10,Designated Hitter,Hitter,DH,TR,Traded
+8,114924,Alex Gonzalez,6,Shortstop,Infielder,SS,WA,Waived
+4,115078,Craig Grebeck,4,Second Base,Infielder,2B,RL,Released
+,115098,Charlie Greene,2,Catcher,Catcher,C,FA,Free Agent
+27,115103,Todd Greene,2,Catcher,Catcher,C,RL,Released
+39,115249,Eric Gunderson,1,Pitcher,Pitcher,P,WA,Waived
+38,115260,Mark Guthrie,1,Pitcher,Pitcher,P,FA,Free Agent
+32,136880,Roy Halladay,1,Pitcher,Pitcher,P,A,Active
+50,115383,Joey Hamilton,1,Pitcher,Pitcher,P,RL,Released
+44,150477,Billy Koch,1,Pitcher,Pitcher,P,TR,Traded
+21,117842,Esteban Loaiza,1,Pitcher,Pitcher,P,FA,Free Agent
+14,118363,Dave Martinez,9,Outfielder,Outfielder,RF,FA,Free Agent
+43,119247,Raúl Mondesi,9,Outfielder,Outfielder,RF,TR,Traded
+1,119347,Mickey Morandini,4,Second Base,Infielder,2B,RM,Reassigned to Minors
+22,119456,Chad Mottola,9,Outfielder,Outfielder,RF,TR,Traded
+13,133729,Pete Munro,1,Pitcher,Pitcher,P,TR,Traded
+28,120183,Lance Painter,1,Pitcher,Pitcher,P,RL,Released
+17,150482,Josh Phelps,10,Designated Hitter,Hitter,DH,TR,Traded
+48,120824,Paul Quantrill,1,Pitcher,Pitcher,P,TR,Traded
+24,122784,Shannon Stewart,7,Outfielder,Outfielder,LF,TR,Traded
+16,276546,Andy Thompson,7,Outfielder,Outfielder,LF,RM,Reassigned to Minors
+46,123431,Steve Trachsel,1,Pitcher,Pitcher,P,FA,Free Agent
+33,124071,David Wells,1,Pitcher,Pitcher,P,TR,Traded
+10,150484,Vernon Wells,8,Outfielder,Outfielder,CF,A,Active
+1,276547,Dewayne Wise,7,Outfielder,Outfielder,LF,MIN,Minor League Contract
+5,218595,Chris Woodward,6,Shortstop,Infielder,SS,FA,Free Agent
